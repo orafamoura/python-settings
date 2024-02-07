@@ -1,5 +1,4 @@
-def soma(
-    num_1: int, num_2: int
+def soma(num_1: int, num_2: int
 ) -> (
     int
 ):  # colocamos o : int e -> int para ajudar o proximo desenvolvedor entender o que aceita
