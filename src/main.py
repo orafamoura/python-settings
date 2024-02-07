@@ -1,7 +1,7 @@
-def soma(num_1: int, num_2: int
-) -> (
-    int
-):  # colocamos o : int e -> int para ajudar o proximo desenvolvedor entender o que aceita
+def soma(
+    num_1: int, num_2: int
+) -> int:  # colocamos o : int e -> int para ajudar o proximo
+    # desenvolvedor entender o que aceita
     """Adding two numbers
     :param num_1: number 1
     :param num_2: number 2
@@ -13,3 +13,4 @@ def soma(num_1: int, num_2: int
 
 
 # SUM_TWO_NUMBERS = soma(1, 2)
+# dar o commit
